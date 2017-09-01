@@ -1,0 +1,23 @@
+
+body{
+	width: 600px;
+	margin: auto;
+	font-family: 'Special Elite', cursive;
+	background-color: black;
+	text-align: center;
+	margin-top: 100px;
+	padding: 30px;
+	border: 1px solid black;
+	background-image: url("psychic.jpg");
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 20px;
+
+}
+h1{
+	font-family: 'Berkshire Swash', cursive;
+	font-size: 35px;
+}
+h4{
+	font-size: 30px;
+}
